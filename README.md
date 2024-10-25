@@ -9,7 +9,7 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por criar 
 ## 🚀 Sobre Mim
 
 - 💻 **Experiência em:** [PHP - Java - JavaScript, Laravel]  
-- 🌱 Atualmente aprendendo: [Python e Banco de Dados]
+- 🌱 Atualmente aprendendo: [Python | Selenium e Banco de Dados]
 - 👨‍💻 Trabalhando em projetos como: [No momento nenhum projeto.]
 - 📫 Como me encontrar: [caiovieira812@gmail.com ou [LinkedIn](https://www.linkedin.com/in/caio-vieira00/)]
   
